@@ -1,0 +1,10 @@
+{
+  "name": "equipment-loan",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ระบบยืม-คืนอุปกรณ์ทางกายภาพบำบัด (Netlify Functions + Blobs)",
+  "dependencies": {
+    "@netlify/blobs": ">=8.2.0"
+  }
+}
